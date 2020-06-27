@@ -32,9 +32,7 @@
             "male_smokers": 27.8,
             "hospital_beds_per_thousand": 3.18,
             "life_expectancy": 83.51
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "South America",
             "location": "Chile",
@@ -67,9 +65,7 @@
             "male_smokers": 41.5,
             "hospital_beds_per_thousand": 2.11,
             "life_expectancy": 80.18
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "South America",
             "location": "Peru",
@@ -97,9 +93,7 @@
             "female_smokers": 4.8,
             "hospital_beds_per_thousand": 1.6,
             "life_expectancy": 76.74
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "Europe",
             "location": "United Kingdom",
@@ -133,9 +127,7 @@
             "male_smokers": 24.7,
             "hospital_beds_per_thousand": 2.54,
             "life_expectancy": 81.32
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "North America",
             "location": "United States",
@@ -169,9 +161,7 @@
             "male_smokers": 24.6,
             "hospital_beds_per_thousand": 2.77,
             "life_expectancy": 78.86
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "Asia",
             "location": "India",
@@ -205,9 +195,7 @@
             "handwashing_facilities": 59.55,
             "hospital_beds_per_thousand": 0.53,
             "life_expectancy": 69.66
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "Europe",
             "location": "Russia",
@@ -240,9 +228,7 @@
             "male_smokers": 58.3,
             "hospital_beds_per_thousand": 8.05,
             "life_expectancy": 72.58
-        }
-    ],
-    "CONTRY": [
+        },
         {
             "continent": "South America",
             "location": "Brazil",
